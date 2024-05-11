@@ -11,7 +11,7 @@ Repositório para armazenar sesumos sobre Git e GitHub do curso Versionamento de
 
 | Aulas | Resumnos |
 |-------|----------|
-| Gravando Alterações no Repositório Local | [Resumno]() |
+| Gravando Alterações no Repositório Local | [Resumnos]() |
 
 ```
 git init
